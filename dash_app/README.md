@@ -19,6 +19,8 @@ To try it out, I followed the tutorials on the Dash website:
 	- [Chaining Outputs - Output of one function as input to other](app10.py)
 	- [Changing components of dcc.Graph through interaction - hoverData, clickData, selectedData](app11.py)
 	- [Updating Graph based on interaction with other graph](app12.py)
+* Examples found online:
+	- [Tracking Market Prices](app13.py)
 
 
 The apps generated are interactive, and fast.  
