@@ -13,7 +13,7 @@ Inspiration: A [tweet](https://twitter.com/varungrover/status/880737891969671168
 ![results](results.png)
 
 Existing Acronyms : [existing_acronyms.csv](existing_acronyms.csv)  
-Possibly Incorrect Acronyms: [had_result.csv](had_result.csv)
+Possibly Incorrect Acronyms: [had_result.csv](had_result.csv)  
 No Definition (Yet) : [not_found.txt](not_found.txt)  
 Missed (Due to some error): [missed.txt](missed.txt)
 
